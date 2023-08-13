@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Vocabulous</string>
+    <string name="start_button">Start</string>
+    <string name="a_button">A</string>
+    <string name="b_button">B</string>
+    <string name="c_button">C</string>
+    <string name="d_button">D</string>
+    <string name="e_button">E</string>
+    <string name="f_button">F</string>
+    <string name="g_button">G</string>
+    <string name="h_button">H</string>
+    <string name="i_button">I</string>
+    <string name="j_button">J</string>
+    <string name="k_button">K</string>
+    <string name="l_button">L</string>
+    <string name="m_button">M</string>
+    <string name="n_button">N</string>
+    <string name="o_button">O</string>
+    <string name="p_button">P</string>
+    <string name="q_button">Q</string>
+    <string name="r_button">R</string>
+    <string name="s_button">S</string>
+    <string name="t_button">T</string>
+    <string name="u_button">U</string>
+    <string name="v_button">V</string>
+    <string name="w_button">W</string>
+    <string name="x_button">X</string>
+    <string name="y_button">Y</string>
+    <string name="z_button">Z</string>
+    <string name="back_button">  </string>
+    <string name="enter_button">ENTER</string>
+    <string name="score">SCORE:</string>
+    <string name="letter_prompt">Enter  a  word  containing</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="game_over">Game Over!</string>
+    <string name="endScore">Score:</string>
+    <string name="return_to_menu">Return to Menu</string>
+</resources>
